@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hi I'm Eutimio Chidubem, I'm Italian.
+In my free time I like to workout, eat, and obviously, code!
 
 <!--
 **EutimioChidubem/EutimioChidubem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
