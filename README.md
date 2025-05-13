@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
 
 My Minecraft/Xbox account: TheCrispyEgg (Feel free to add me! I'll probably add you back!)
+
+## My octocat :octocat:
+![my cool octocat!](octocat-1746990646410.png)
